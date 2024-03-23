@@ -1,0 +1,17 @@
+.list {
+    list-style: none;
+    padding: 0;
+}
+
+.item {
+    margin-bottom: 5px;
+}
+
+.button {
+    padding: 2px 5px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    background-color: black;
+    color: white;
+}
